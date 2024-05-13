@@ -1,0 +1,7 @@
+opencv-python 
+tensorflow
+tqdm
+gmplot
+plotly 
+open3d
+pymap3d
